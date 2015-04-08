@@ -22,6 +22,7 @@ require './Think/ThinkPHP.php';
 二、修改配置文件config.php
 
 1.修改choujiang\Apps\Common\Conf目录下的config.php文件
+
 return array(
 
 	//'配置项'=>'配置值'
